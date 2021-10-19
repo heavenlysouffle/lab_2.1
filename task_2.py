@@ -20,3 +20,4 @@ class Rational:
 object1 = Rational(2, 4)
 print(object1.fraction())
 print(object1.result)
+
